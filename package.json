@@ -1,5 +1,5 @@
 {
-	"name": "@cfp/rollup-plugin-postcss",
+	"name": "@cfp-lib/rollup-plugin-postcss",
 	"version": "4.1.0",
 	"description": "Seamless integration between Rollup and PostCSS",
 	"main": "dist/index.js",
